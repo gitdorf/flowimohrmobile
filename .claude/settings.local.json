@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:blog.hamdorf.org)",
+      "WebFetch(domain:funk.hamdorf.org)",
+      "WebSearch",
+      "WebFetch(domain:norden.social)",
+      "WebFetch(domain:pixelfed.social)"
+    ]
+  }
+}
